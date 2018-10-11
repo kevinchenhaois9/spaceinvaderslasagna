@@ -44,7 +44,7 @@ public class Game extends Canvas {
     	 */
     	public Game() {
     		// create a frame to contain game
-    		JFrame container = new JFrame("foobar");
+    		JFrame container = new JFrame("foobar1");
     
     		// get hold the content of the frame
     		JPanel panel = (JPanel) container.getContentPane();
